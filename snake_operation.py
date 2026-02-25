@@ -142,4 +142,3 @@ def update_snake():
     conn.close()
 
     print("Snake updated successfully!")
-
